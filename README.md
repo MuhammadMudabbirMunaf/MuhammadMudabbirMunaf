@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *React*
 
-- 💬 Ask me about *Html, Css, Js*
+- 💬 Ask me about *Html, Css, Js, React Js*
 
 - 📫 How to reach me *muhammadmuddabir@gmail.com*
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mudabbir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *Express and MongoDb*
 
-- 💬 Ask me about *Html, Css, Js, React Js*
+- 💬 Ask me about *Html, Css, Js, React Js, Bootstrap, Express, Mongo Db, Node Js*
 
 - 📫 How to reach me *muhammadmuddabir@gmail.com*
 
